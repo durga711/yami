@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navi{
+    height: 100px;
+}
+.navbar{
+    
+    width: 100%;
+    
+}
+.navbar-nav{
+    margin-right: 50px;
+}
+.navbar-nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 45px;
+    color: white;
+}
+.grey{
+    opacity: 0.5;
+    font-size: 13px;
+}
+.ul{
+    list-style-type: none;
+    opacity: 0.5;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}
+.flex{
+    margin-top: 50px;
+    font-size: 24px;
+}
+button{
+    background: transparent;
+    cursor: pointer;
+    border: none;
+    
+}
+.at,.dropdown-btn{
+    background: transparent;
+    padding-top: 20px;
+    padding-left: 10px;
+   
+}

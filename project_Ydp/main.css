@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
+.navbar{
+    
+    width: 100%;
+    
+}
+.navbar-nav{
+    margin-right: 50px;
+}
+.navbar-nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 45px;
+    color: white;
+}
+/* .navbar-nav li a:hover{
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: orangered;
+} */
+.card:hover{
+    transform: scale(1.05);
+}
+.ul li a{
+    border: 15px solid black;
+    padding: 10px;
+}
+
+.btn{
+    border: 1px solid black;
+}
+.online img:hover{
+    transform: scale(1.05);
+
+}
+.last{
+    background-color:whitesmoke;
+    height: 100px;
+    text-align: center;
+    padding:30px;
+}
+.last ul{
+    list-style-type: none;
+    float: right;
+    margin-top: -55px;
+    margin-right: 120px;
+
+
+}
+.last ul li{
+    display: inline;
+    margin-right: 10px;
+}
+footer{
+    background-color: black;
+    height: 400px;
+}
+.company{
+    margin-left: 500px;
+    margin-top: -70px;
+    list-style-type: none;
+}
+.company p{
+    color: white;
+    font-size: 23px;
+}
+.company li{
+    color: grey;
+}
+.contactus{
+    text-align: center;
+    margin-top: -11%;
+    margin-left: 300px;
+    list-style-type: none;
+}
+.contactus p{
+    color: white;
+    font-size: 23px;
+}
+.contactus li{
+    color: grey;
+}
+.we{
+    float:right;
+    margin-top: -120px;
+    list-style-type: none;
+
+}
+.we p{
+    color: white;
+    font-size: 23px;
+}
+.we li{
+    color: grey;
+}
+.legal{
+    list-style-type: none;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 20px;
+
+}
+.legal p{
+    color: white;
+    font-size: 23px;
+}
+.legal li{
+    color: grey;
+}
+
+
+

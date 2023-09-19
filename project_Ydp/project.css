@@ -1,0 +1,54 @@
+body{
+    background-image: url("street_food.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    float: left;
+    margin-top: -290px;
+    margin-left: 20px;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: -280px;
+    margin-right: 90px;
+}
+li{
+    display: inline;
+    margin-right: 40px;
+}
+li a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+li i a:hover{
+    color: aqua;
+    border: solid 2px;
+    padding: 10px;
+}
+
+.head{
+    text-align: center;
+    color: white;
+    margin-top: 18%;;
+}
+.head h1{
+    font-size: 75px;
+    color: white;
+    cursor: pointer;
+}
+.head p{
+    font-size: 27px;
+    color: lightgray;
+}
+button{
+    padding:15px 25px;
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    margin-bottom: -70px;
+    font-size: 25px;
+}
